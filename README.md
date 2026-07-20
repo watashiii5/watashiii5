@@ -6,7 +6,7 @@
 
 ### Welcome to my corner of the internet.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=CS+Undergrad+%7C+Full-Stack+Developer;Building+efficient+%26+scalable+software.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=CS+Undergrad;Building+efficient+%26+scalable+software.)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=watashiii5&label=Profile%20Views&color=0e75b6&style=flat" alt="watashiii5" />
