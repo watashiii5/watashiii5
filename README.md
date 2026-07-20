@@ -6,7 +6,7 @@
 
 ### Welcome to my corner of the internet.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=CS+Undergrad;Building+efficient+%26+scalable+software.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=130&lines=CS+Grad+%F0%9F%8E%93;Building+efficient;%26+scalable+software.)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=watashiii5&label=Profile%20Views&color=0e75b6&style=flat" alt="watashiii5" />
@@ -18,7 +18,7 @@
 
 ## 👤 WHO AM I
 
-Computer Science student and active full-stack developer with a passion for building **efficient**, **scalable**, and **purpose-driven** software. I thrive at the intersection of **software engineering** and **computational optimization** — turning complex problems into clean, functional solutions.
+Computer Science graduate (June 2026) and active full-stack developer with a passion for building **efficient**, **scalable**, and **purpose-driven** software. I thrive at the intersection of **software engineering** and **computational optimization** — turning complex problems into clean, functional solutions.
 
 > _"Code is not just syntax; it's a system of thought."_
 
