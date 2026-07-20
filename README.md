@@ -1,6 +1,12 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+WATASHIII;Welcome+to+my+corner+of+the+internet.)
+<img src="avatar.png" width="150" style="border-radius:50%; border: 3px solid #00D4FF;" alt="avatar"/>
+
+# Hey there, I'm WATASHIII 👋
+
+### Welcome to my corner of the internet.
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=CS+Undergrad+%7C+Full-Stack+Developer;Building+efficient+%26+scalable+software.)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=watashiii5&label=Profile%20Views&color=0e75b6&style=flat" alt="watashiii5" />
@@ -10,30 +16,15 @@
 
 ---
 
-## `[0x00]` &nbsp; WHO AM I
-
-<table>
-<tr>
-<td width="180" align="center">
-  <img src="https://avatars.githubusercontent.com/u/watashiii5" width="120" style="border-radius:16px; border: 2px solid #00D4FF;" alt="avatar"/>
-  <br><br>
-  <b style="color:#00D4FF;">WATASHIII</b>
-  <br>
-  <sub>CS Undergrad · Full-Stack Dev</sub>
-</td>
-<td>
+## 👤 WHO AM I
 
 Computer Science student and active full-stack developer with a passion for building **efficient**, **scalable**, and **purpose-driven** software. I thrive at the intersection of **software engineering** and **computational optimization** — turning complex problems into clean, functional solutions.
 
 > _"Code is not just syntax; it's a system of thought."_
 
-</td>
-</tr>
-</table>
-
 ---
 
-## `[0x01]` &nbsp; TECH STACK
+## 🛠️ TECH STACK
 
 <div align="center">
 
@@ -49,14 +40,14 @@ Computer Science student and active full-stack developer with a passion for buil
 
 ---
 
-## `[0x02]` &nbsp; CURRENT FOCUS
+## 🎯 CURRENT FOCUS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 &nbsp; Ticketing System
-> **Status:** `In Development` &nbsp; `🔄`
+### 🎫 Ticketing System
+> **Status:** `In Development` 🔄
 
 A full-featured ticketing/issue tracking platform built with modern web technologies.
 
@@ -70,8 +61,8 @@ A full-featured ticketing/issue tracking platform built with modern web technolo
 </td>
 <td width="50%" valign="top">
 
-### ⚛️ &nbsp; QTime — Room Allocation System
-> **Status:** `Completed` &nbsp; `✅`
+### ⚛️ QTime — Room Allocation System
+> **Status:** `Completed` ✅
 
 An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (QIA)** and **QUBO (Quadratic Unconstrained Binary Optimization)** to solve logistical allocation problems.
 
@@ -88,7 +79,7 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 ---
 
-## `[0x03]` &nbsp; BENTO SNAPSHOT
+## 📊 BENTO SNAPSHOT
 
 <table>
 <tr>
@@ -125,7 +116,7 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 ---
 
-## `[0x04]` &nbsp; HOW I WORK
+## ⚙️ HOW I WORK
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -146,7 +137,7 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 ---
 
-## `[0x05]` &nbsp; CONNECT
+## 🔗 CONNECT
 
 <div align="center">
 
@@ -159,7 +150,7 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 ---
 
-## `[0x06]` &nbsp; STATS
+## 📈 STATS
 
 <div align="center">
 
@@ -176,10 +167,6 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/watashiii5/watashiii5/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<sub>**[WATASHIII](https://github.com/watashiii5)** &mdash; Crafting code that matters.</sub>
+**[WATASHIII](https://github.com/watashiii5)** — Crafting code that matters.
 
 </div>
