@@ -150,21 +150,6 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 ---
 
-## 📈 STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=watashiii5&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=watashiii5&theme=radical&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watashiii5&layout=compact&theme=radical&hide_border=true" width="40%" />
-
-</div>
-
----
-
 <div align="center">
 
 **[WATASHIII](https://github.com/watashiii5)** — Crafting code that matters.
