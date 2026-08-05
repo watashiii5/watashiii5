@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="avatar.png" width="150" style="border-radius:50%; border: 3px solid #00D4FF;" alt="avatar"/>
+<img src="psyduck_avatar.png" width="150" style="border-radius:50%; border: 3px solid #00D4FF;" alt="avatar"/>
 
 # Hey there, I'm WATASHIII 👋
 
