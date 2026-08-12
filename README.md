@@ -19,7 +19,21 @@
 </p>
 
 <p align="center">
-  🔥 **Commit Streak:** Day **1** — one commit a day keeps the streak alive.
+  <table>
+    <tr>
+      <td style="padding:2px;"><span title="6 days ago" style="display:inline-block; width:13px; height:13px; background:#161b22; border-radius:2px;"></span></td>
+      <td style="padding:2px;"><span title="5 days ago" style="display:inline-block; width:13px; height:13px; background:#161b22; border-radius:2px;"></span></td>
+      <td style="padding:2px;"><span title="4 days ago" style="display:inline-block; width:13px; height:13px; background:#161b22; border-radius:2px;"></span></td>
+      <td style="padding:2px;"><span title="3 days ago" style="display:inline-block; width:13px; height:13px; background:#161b22; border-radius:2px;"></span></td>
+      <td style="padding:2px;"><span title="2 days ago" style="display:inline-block; width:13px; height:13px; background:#161b22; border-radius:2px;"></span></td>
+      <td style="padding:2px;"><span title="1 day ago" style="display:inline-block; width:13px; height:13px; background:#161b22; border-radius:2px;"></span></td>
+      <td style="padding:2px;"><span title="Today" style="display:inline-block; width:13px; height:13px; background:#00D4FF; border-radius:2px;"></span></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  🔥 **Current streak:** Day **1** — one commit a day keeps the streak alive.
 </p>
 
 </div>
