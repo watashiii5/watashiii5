@@ -26,7 +26,7 @@
 
 ---
 
-## 👤 WHO AM I
+<h2 align="center">👤 WHO AM I</h2>
 
 Computer Science graduate (June 2026) and active full-stack developer with a passion for building **efficient**, **scalable**, and **purpose-driven** software. I thrive at the intersection of **software engineering** and **computational optimization** — turning complex problems into clean, functional solutions.
 
@@ -34,7 +34,7 @@ Computer Science graduate (June 2026) and active full-stack developer with a pas
 
 ---
 
-## 🛠️ TECH STACK
+<h2 align="center">🛠️ TECH STACK</h2>
 
 <div align="center">
 
@@ -50,13 +50,13 @@ Computer Science graduate (June 2026) and active full-stack developer with a pas
 
 ---
 
-## 🎯 CURRENT FOCUS
+<h2 align="center">🎯 CURRENT FOCUS</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 Ticketing System
+<h3 align="center">🎫 Ticketing System</h3>
 > **Status:** `In Development` 🔄
 
 A full-featured ticketing/issue tracking platform built with modern web technologies.
@@ -71,7 +71,7 @@ A full-featured ticketing/issue tracking platform built with modern web technolo
 </td>
 <td width="50%" valign="top">
 
-### ⚛️ QTime — Room Allocation System
+<h3 align="center">⚛️ QTime — Room Allocation System</h3>
 > **Status:** `Completed` ✅
 
 An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (QIA)** and **QUBO (Quadratic Unconstrained Binary Optimization)** to solve logistical allocation problems.
@@ -89,7 +89,7 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 ---
 
-## 📊 BENTO SNAPSHOT
+<h2 align="center">📊 BENTO SNAPSHOT</h2>
 
 <table>
 <tr>
@@ -126,7 +126,7 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 ---
 
-## ⚙️ HOW I WORK
+<h2 align="center">⚙️ HOW I WORK</h2>
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -147,7 +147,7 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 ---
 
-## 🔗 CONNECT
+<h2 align="center">🔗 CONNECT</h2>
 
 <div align="center">
 
