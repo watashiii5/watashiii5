@@ -12,6 +12,16 @@
   <img src="https://komarev.com/ghpvc/?username=watashiii5&label=Profile%20Views&color=0e75b6&style=flat" alt="watashiii5" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=watashiii5&theme=black-ice&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A9A9A9" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  🔥 **Commit Streak:** Day **1** — one commit a day keeps the streak alive.
+</p>
+
 </div>
 
 ---
