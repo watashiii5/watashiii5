@@ -91,6 +91,8 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 
 <h2 align="center">📊 BENTO SNAPSHOT</h2>
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="25%">
@@ -124,9 +126,13 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 </tr>
 </table>
 
+</div>
+
 ---
 
 <h2 align="center">⚙️ HOW I WORK</h2>
+
+<div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -144,6 +150,8 @@ An intelligent room scheduling system leveraging **Quantum-Inspired Annealing (Q
 │   Tools: Git · GitHub Actions · Supabase · TypeScript    │
 └──────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
